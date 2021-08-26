@@ -3,4 +3,4 @@
 
 [Horiseon SEO](https://mnijjar24.github.io/SEO-refactor/index.html) 
 
-![website screenshot](http://via.placeholder.com/640x360)
+![website screenshot](/assets/images/brand-awareness.png)
